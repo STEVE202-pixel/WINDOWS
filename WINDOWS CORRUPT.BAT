@@ -1,0 +1,1 @@
+bcdedit.exe /delete {current}
